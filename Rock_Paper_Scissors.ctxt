@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rock_Paper_Scissors
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=in\ out
+comment2.target=int\ Game(int,\ int)
+numComments=3
